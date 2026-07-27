@@ -43,14 +43,6 @@
 
    ```
 
-   Install dependencies:
-   npm install
-
-   Run development server:
-   npm run dev
-
-  ## Open http://localhost:3000 in your browser.
-
-Developed as part of the Capstone Foundations Project.
+  
 
 
